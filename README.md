@@ -33,7 +33,7 @@ php -S localhost:8000
   you to easily pull updates from the original repo. Run
 
 ```
-git remote add upstream https://github.com/austinjerrytech/hng_dragonglass_ui.git
+git remote add upstream https://github.com/dragonglass-fe/hng_dragonglass_ui.git
 ```
 
 - Next, use the develop branch. Run `git branch` to see the branch
@@ -83,7 +83,7 @@ git push // you've already previously done git push -u origin develop
 - Follow the steps in the [Making changes](#making-changes) section
   to make changes, and in the [Pushing changes](#pushing-changes) section
   to push them to your forked repo.
-- Go to https://github.com/austinjerrytech/hng_dragonglass_ui/pulls
+- Go to https://github.com/dragonglass-fe/hng_dragonglass_ui/pulls
 - Select new request.
 - Choose compare across forks.
 - Choose base repository as **develop** and choose head repository as
