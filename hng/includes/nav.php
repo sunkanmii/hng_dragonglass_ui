@@ -5,19 +5,17 @@
       <div class="row text-center">
         <h3>TONI ATUNRASE</h3>
         <h4 class="occupation">Web/Software Developer</h4>
-        <p>Software Enginner at AWS design enthusiast and music lover</p>
-        <i class="fa fa-medium"></i>
-        <i class="fa fa-github"></i>
-        <i class="fa fa-twitter"></i>
+        <p>Software Engineer at AWS design enthusiast and music lover</p>
+        <a href=""><i class="fa fa-paperclip"></i> hng/toni</a>
       </div>
     </div>
     <hr>
     <div class="row">
       <ul class="side_nav">
         <li><a class="side_nav" href="#home">Home</a></li>
-        <li><a class="side_nav" href="#news">News</a></li>
-        <li><a class="side_nav" href="#contact">Contact</a></li>
-        <li><a class="side_nav" href="#about">About</a></li>
+        <li><a class="side_nav" href="#news">Drafts</a></li>
+        <li><a class="side_nav" href="#contact">My Journal</a></li>
+        <li><a class="side_nav" href="#about">Other Journals</a></li>
       </ul>
     </div>
   </div>
