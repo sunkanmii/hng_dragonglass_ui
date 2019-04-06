@@ -28,7 +28,7 @@
 									<button class="tool fa fa-align-left" onclick="document.execCommand('justifyLeft',false,'')"></button>
 									<button class="tool fa fa-align-right" onclick="document.execCommand('justifyRight',false,'')"></button>								</div>
 								<div class="editor" contenteditable>
-									<p>Please enter a post</p>
+								<input class="form-control" type="text" name="blog_text" placeholder="Tell your story...">
 								</div>
 							</div>
 						</div>

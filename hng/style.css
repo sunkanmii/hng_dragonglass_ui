@@ -25,3 +25,11 @@
     padding: 1rem;
     background-color: rgba(0,0,0,0.03);
 } 
+.status-area {
+    border-radius: 15px;
+    outline: none;
+}
+.form-control {
+    outline: none;
+    font-weight: bold;
+}
