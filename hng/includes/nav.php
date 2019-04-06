@@ -16,6 +16,7 @@
         <li><a class="side_nav" href="#news">Drafts</a></li>
         <li><a class="side_nav" href="#contact">My Journal</a></li>
         <li><a class="side_nav" href="#about">Other Journals</a></li>
+        <li><a class="side_nav" href="" data-toggle="modal" data-target="#profile">Profile</a></li>
       </ul>
     </div>
   </div>
