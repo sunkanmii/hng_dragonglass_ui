@@ -23,3 +23,9 @@
     padding: 1rem;
     background-color: rgba(0,0,0,0.03);
 } 
+.journal-post-date{
+    font-size: 14px;
+}
+.elipse-margin{
+    margin-left: 120px;
+}
