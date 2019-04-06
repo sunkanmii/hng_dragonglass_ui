@@ -25,7 +25,8 @@
 									<button class="tool fa fa-scribd" onclick="document.execCommand('selectAll',false,'')"></button>
 									<button class="tool fa fa-align-center" onclick="document.execCommand('justifyCenter',false,'')"></button>
 									<button class="tool fa fa-align-left" onclick="document.execCommand('justifyLeft',false,'')"></button>
-									<button class="tool fa fa-align-right" onclick="document.execCommand('justifyRight',false,'')"></button>								</div>
+									<button class="tool fa fa-align-right" onclick="document.execCommand('justifyRight',false,'')"></button>			
+								</div>
 								<div class="editor" contenteditable>
 									<p>Please tell your story</p>
 								</div>
