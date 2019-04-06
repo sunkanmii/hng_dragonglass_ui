@@ -28,6 +28,7 @@
 									<button class="tool fa fa-align-right" onclick="document.execCommand('justifyRight',false,'')"></button>			
 								</div>
 								<div class="editor" contenteditable>
+									<p>Please enter a post</p>
 								</div>
 							</div>
 						</div>
@@ -133,5 +134,6 @@
 			</div>
 		</div>
 	</div>
+	<script src="app.js"></script>
 </body>
 </html>
