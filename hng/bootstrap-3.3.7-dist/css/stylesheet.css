@@ -133,10 +133,10 @@ ul.side_nav {
 
 li a.side_nav {
     display: block;
-    width: 60px;
-    font-size: 25px;
-    color: #000000 !important;
-    font-weight: bold;
+    font-size: 2rem;
+    color: #424242 !important;
+    font-weight: 600;
+    margin: 2rem 0;
 }
 .my-journal{
   letter-spacing: 2px

@@ -15,9 +15,9 @@
     <div class="row">
       <ul class="side_nav">
         <li><a class="side_nav" href="#home">Home</a></li>
-        <li><a class="side_nav" href="#news">News</a></li>
-        <li><a class="side_nav" href="#contact">Contact</a></li>
-        <li><a class="side_nav" href="#about">About</a></li>
+        <li><a class="side_nav" href="#news">Drafts</a></li>
+        <li><a class="side_nav" href="#contact">My Journal</a></li>
+        <li><a class="side_nav" href="#about">Other Journals</a></li>
       </ul>
     </div>
   </div>
