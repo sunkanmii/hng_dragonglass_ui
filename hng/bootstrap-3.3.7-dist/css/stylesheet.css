@@ -115,16 +115,6 @@ a{
 .form-control::-webkit-input-placeholder {
   color: #000000;
 }
-
-input{
-    border: 0 !important;
-}
-
-input:focus {
-  border-color: transparent !important;
-  outline: 0;
-}
-
 ul.side_nav {
     list-style-type: none;
     margin: 0;
