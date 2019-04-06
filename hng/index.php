@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<?php include'includes/head.php'; ?>
+	<?php include 'includes/head.php'; ?>
 <body>
 	<div class="parent">
 		<div class="container padd">
