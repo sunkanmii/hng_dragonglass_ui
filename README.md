@@ -36,7 +36,7 @@ php -S localhost:8000
 git remote add upstream https://github.com/dragonglass-fe/hng_dragonglass_ui.git
 ```
 
-- Next, use the develop branch. Run `git branch` to see the branch
+- Next, use the `develop` branch. Run `git branch` to see the branch
   you are in. If there is no asterisk next to `develop`, then run
 
 ```
