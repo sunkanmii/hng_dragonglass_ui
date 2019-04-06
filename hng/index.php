@@ -15,7 +15,6 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<div class="col-sm-12 status-area">
-<<<<<<< HEAD
 								<div class="toolbar">
 									<button class="tool fa fa-underline"  onclick="document.execCommand('underline', false, '');"></button>
 									<button class="tool fa fa-italic" onclick="document.execCommand('italic', false, '');"></button>
@@ -28,23 +27,7 @@
 									<button class="tool fa fa-align-left" onclick="document.execCommand('justifyLeft',false,'')"></button>
 									<button class="tool fa fa-align-right" onclick="document.execCommand('justifyRight',false,'')"></button>			
 								</div>
-=======
-								<input class="form-control col-sm-12" type="text" name="blog_title" placeholder="Title">
-									<div class="toolbar">
-										<button class="tool fa fa-underline"  onclick="document.execCommand('underline', false, '');"></button>
-										<button class="tool fa fa-italic" onclick="document.execCommand('italic', false, '');"></button>
-										<button class="tool fa fa-bold" onclick="document.execCommand('bold', false, '');"></button>
-										<button class="tool fa fa-scissors" onclick="document.execCommand('cut',false,'')"></button>
-										<button class="tool fa fa-strikethrough" onclick="document.execCommand('strikeThrough',false,'')"></button>
-										<button class="tool fa fa-trash" onclick="document.execCommand('delete',false,'')"></button>
-										<button class="tool fa fa-scribd" onclick="document.execCommand('selectAll',false,'')"></button>
-										<button class="tool fa fa-align-center" onclick="document.execCommand('justifyCenter',false,'')"></button>
-										<button class="tool fa fa-align-left" onclick="document.execCommand('justifyLeft',false,'')"></button>
-										<button class="tool fa fa-align-right" onclick="document.execCommand('justifyRight',false,'')"></button>
-									</div>
->>>>>>> 3413d153c4095b7acc225d970a2bace2f68f65c8
 								<div class="editor" contenteditable>
-								<input class="form-control col-sm-12" type="text" name="blog_text" placeholder="Tell your story...">
 								</div>
 							</div>
 						</div>
