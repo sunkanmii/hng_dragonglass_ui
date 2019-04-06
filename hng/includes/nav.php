@@ -6,9 +6,7 @@
         <h3>TONI ATUNRASE</h3>
         <h4 class="occupation">Web/Software Developer</h4>
         <p>Software Engineer at AWS design enthusiast and music lover</p>
-        <i class="fa fa-medium"></i>
-        <i class="fa fa-github"></i>
-        <i class="fa fa-twitter"></i>
+        <a href=""><i class="fa fa-paperclip"></i> hng/toni</a>
       </div>
     </div>
     <hr>

@@ -81,6 +81,7 @@ a{
 .form-control{
     margin-bottom: 20px !important;
     border: 0;
+    outline: none;
 }
 
 .post{
