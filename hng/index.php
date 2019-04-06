@@ -15,7 +15,6 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<div class="col-sm-12 status-area">
-								<input class="form-control" type="text" name="blog_title" placeholder="Title">
 								<div class="toolbar">
 									<button class="tool fa fa-underline"  onclick="document.execCommand('underline', false, '');"></button>
 									<button class="tool fa fa-italic" onclick="document.execCommand('italic', false, '');"></button>
@@ -28,7 +27,7 @@
 									<button class="tool fa fa-align-left" onclick="document.execCommand('justifyLeft',false,'')"></button>
 									<button class="tool fa fa-align-right" onclick="document.execCommand('justifyRight',false,'')"></button>								</div>
 								<div class="editor" contenteditable>
-								<input class="form-control" type="text" name="blog_text" placeholder="Tell your story...">
+									<p>Please tell your story</p>
 								</div>
 							</div>
 						</div>
