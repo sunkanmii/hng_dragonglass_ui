@@ -7,7 +7,7 @@
     box-shadow: 0 .1rem .4rem rgba(0,0,0,0.03);
     border: 1px solid #e0e0e0;
     overflow-y: auto;
-    font-size: 2rem;
+    font-size: 1.7rem;
 }
 .toolbar{
     display:grid;
