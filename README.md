@@ -7,7 +7,7 @@ Frontend Work for team_dragon_glass HNG Internship 5.
 ## Contributing
 
 Use the `develop`
-[branch](https://github.com/austinjerrytech/hng_dragonglass_ui/tree/develop)
+[branch](https://github.com/dragonglass-fe/hng_dragonglass_ui/tree/develop)
 if you want to contribute.
 
 **Only use this branch for viewing.**
@@ -17,7 +17,7 @@ if you want to contribute.
 - Clone this repo using
 
 ```
-git clone https://github.com/austinjerrytech/hng_dragonglass_ui.git
+git clone https://github.com/dragonglass-fe/hng_dragonglass_ui.git
 ```
 
 - Change into the `hng` folder
