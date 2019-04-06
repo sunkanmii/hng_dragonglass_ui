@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 	<?php include 'includes/head.php'; ?>
+	<link rel="stylesheet" href="style.css" type="text/css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body>
 	<div class="parent">
 		<div class="container padd">
@@ -39,7 +41,19 @@
 						<div class="col-sm-12">
 							<div class="col-sm-12 status-area">
 								<input class="form-control" type="text" name="blog_title" placeholder="Title">
-								<textarea class="form-control" placeholder="Tell your story..."></textarea>
+								<div class="toolbar">
+									<button class="tool fa fa-underline"  onclick="document.execCommand('underline', false, '');"></button>
+									<button class="tool fa fa-italic" onclick="document.execCommand('italic', false, '');"></button>
+									<button class="tool fa fa-bold" onclick="document.execCommand('bold', false, '');"></button>
+									<button class="tool fa fa-scissors" onclick="document.execCommand('cut',false,'')"></button>
+									<button class="tool fa fa-strikethrough" onclick="document.execCommand('strikeThrough',false,'')"></button>
+									<button class="tool fa fa-trash" onclick="document.execCommand('delete',false,'')"></button>
+									<button class="tool fa fa-scribd" onclick="document.execCommand('selectAll',false,'')"></button>
+									<button class="tool fa fa-align-center" onclick="document.execCommand('justifyCenter',false,'')"></button>
+									<button class="tool fa fa-align-left" onclick="document.execCommand('justifyLeft',false,'')"></button>
+									<button class="tool fa fa-align-right" onclick="document.execCommand('justifyRight',false,'')"></button>								</div>
+								<div class="editor" contenteditable>
+								</div>
 							</div>
 						</div>
 					</div>
